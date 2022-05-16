@@ -12,4 +12,25 @@ A microservices architecture consists of a collection of small, autonomous servi
 - Services communicate with each other by using well-defined APIs. Internal implementation details of each service are hidden from other services.
 - Supports polyglot programming. For example, services don't need to share the same technology stack, libraries, or frameworks.
 
+
 ![](images/microservices-logical.png)
+
+
+## Benefits
+
+- Agility
+- Small focussed teams Ex: 5-9 people team to build, test and deploy a feature.
+- Small code base
+- free to choose any technology for a service
+- fault isolation
+- scalability
+- data isolation
+
+## Challenges
+
+- Complexity
+- lack of governance
+- network congestion and latency
+- data integrity
+- management
+- versioning
