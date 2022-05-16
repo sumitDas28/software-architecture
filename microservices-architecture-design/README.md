@@ -34,3 +34,10 @@ A microservices architecture consists of a collection of small, autonomous servi
 - data integrity
 - management
 - versioning
+
+
+
+## Acknowledgements
+
+ - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+
