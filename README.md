@@ -3,4 +3,4 @@ software-architecture-handbook
 
 ## Architectural Characteristics (NFRs)
 
-![Architectural Characteristics](Architectural Characteristics (NFRs).png)
+[![Architectural Characteristics](https://github.com/sumitDas28/software-architecture-handbook/blob/main/NFR.png)
