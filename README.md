@@ -1,4 +1,4 @@
-#  Software-Architecture-Notes
+#  Software-Architecture-Artifacts
 Software-Architecture-Notes
 
 ## Architectural Characteristics (NFRs)
